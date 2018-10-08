@@ -13,7 +13,7 @@ Shalise Franklin
 In this assignment, we utilized an expense calculator to calculate the total living expenses, and the percentage of each living expense, for the user. The living expenses included shelter, food, household, and miscellaneous. In order to calculate the percentage of each living expense, the calculator converted the dollar amount to a percentage. In order to calculate the total living expenses, the calculator calculates the sum of the percentage of each living expense.
 
 ### View Project:
-https://sgf16b.github.io/lesson4_javascript1/
+https://github.com/sgf16b/lesson4_javascript1
 
 ### Lessons Learned in the Assignment:
 1. Variable- A variable is a container for information that you wish to store. It allows for you to store data in memory. There are also two different types of variables. A global variable is available to all parts of a code, and is declared outside a function. A local variable is only available within the function in which it is declared, and it is declared inside of a function.
